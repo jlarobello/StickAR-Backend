@@ -1,0 +1,2 @@
+curl -F upl=@./pexels-photo-248797.jpeg http://localhost:3000/upload
+
